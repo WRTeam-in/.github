@@ -89,7 +89,7 @@ You can browse over 30 products in our catalog.
 
 - 🌐 Website: [wrteam.in](https://www.wrteam.in)  
 - Portfolio: [WRTeam on CodeCanyon](https://codecanyon.net/user/wrteam/portfolio)  
-- Email / Support: **info@wrteam.in**  
+- Email / Support: **support@wrteam.in**  
 - Support policy: We respond within **24 hours** on business days.
 
 ---
